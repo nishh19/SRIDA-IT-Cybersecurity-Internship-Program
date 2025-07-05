@@ -1,5 +1,5 @@
 
-# 🛍️ OpenCart Installation Guide
+#  OpenCart Installation Guide
 
 | **Version** | OpenCart 4.x                         |
 |-------------|--------------------------------------|
@@ -7,7 +7,7 @@
 
 ---
 
-## 🔧 Installation Steps
+## Installation Steps
 
 ### 1. Install LAMP Stack
 
@@ -48,7 +48,7 @@ Follow the GUI installer to finish setting up the store.
 
 ---
 
-## ✅ Status
+##  Status
 
 OpenCart installed successfully and ready for testing inside the Ubuntu VM.
 
