@@ -1,4 +1,4 @@
-# 🐧 Ubuntu Setup on VMware
+#  Ubuntu Setup on VMware
 
 | **OS**   | Ubuntu 22.04 LTS              |
 |----------|-------------------------------|
@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Setup Steps
+##  Setup Steps
 
 1. **Download Ubuntu ISO:**  
    [https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
