@@ -1,4 +1,4 @@
-# 🧾 Compliance Mapping Summary
+#  Compliance Mapping Summary
 
 | Framework       | Control / Clause          | Status         | Gap Summary                               |
 |-----------------|---------------------------|----------------|--------------------------------------------|
@@ -11,7 +11,7 @@
 
 ---
 
-## 🔧 Action Plan
+##  Action Plan
 
 - Maintain legal obligation register (A.5.36)  
 - Upgrade TLS to v1.2+ with strong ciphers (PCI DSS v4.0)  
