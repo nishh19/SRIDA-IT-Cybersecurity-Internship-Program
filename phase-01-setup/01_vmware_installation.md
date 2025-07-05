@@ -1,4 +1,4 @@
-# 🧰 VMware Installation Guide
+#  VMware Installation Guide
 
 | **OS**   | Windows 10 / 11                   |
 |----------|----------------------------------|
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔽 Installation Steps
+##  Installation Steps
 
 1. **Download the Installer:**  
    [https://www.vmware.com/in/products/workstation-player.html](https://www.vmware.com/in/products/workstation-player.html)
@@ -26,6 +26,6 @@
 
 ---
 
-## ✅ Status
+##  Status
 
 VMware Workstation Player installed and ready for VM setup.
