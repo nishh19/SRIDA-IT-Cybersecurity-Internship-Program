@@ -1,4 +1,4 @@
-# 🔧 Tools Pre-Installed for Upcoming Phases
+#  Tools Pre-Installed for Upcoming Phases
 
 This document lists the essential open-source tools pre-installed inside the Ubuntu VM during Phase 1. These tools will be used across different phases of the cybersecurity internship project.
 
@@ -16,7 +16,7 @@ This document lists the essential open-source tools pre-installed inside the Ubu
 
 ---
 
-## 📦 System Info
+##  System Info
 
 - **Ubuntu Version:** 22.04 LTS  
 - **VM Platform:** VMware Workstation Player  
