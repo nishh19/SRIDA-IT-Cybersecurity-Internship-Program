@@ -1,10 +1,10 @@
-# 🔧 Phase 1 – Setup and Orientation (Days 1–5)
+# Phase 1: Setup and Orientation (Days 1-5)
 
 This folder documents the setup of the simulated eCommerce environment and essential tools for the cybersecurity internship project.
 
 ---
 
-## 🗂️ Activities Completed
+##  Activities Completed
 
 - Installed VMware Workstation Player on local machine
 - Set up Ubuntu 22.04 LTS as the base OS
@@ -14,7 +14,7 @@ This folder documents the setup of the simulated eCommerce environment and essen
 
 ---
 
-## 📁 Files
+## Files
 
 | File                        | Description                                      |
 |-----------------------------|--------------------------------------------------|
@@ -26,6 +26,6 @@ This folder documents the setup of the simulated eCommerce environment and essen
 
 ---
 
-## 🖥️ Deliverable
+##  Deliverable
 
 ✅ Functional simulated eCommerce environment using Ubuntu and OpenCart inside VMware.
