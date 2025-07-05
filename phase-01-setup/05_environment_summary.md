@@ -1,4 +1,4 @@
-# Environment Summary – Phase 1
+# Environment Summary: Phase 1
 
 This document summarizes the technical environment set up during Phase 1 of the cybersecurity internship project.
 
