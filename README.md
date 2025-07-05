@@ -1,11 +1,11 @@
 # SRIDA-IT-Cybersecurity-Internship-Program
-## 🛡️ Comprehensive Cybersecurity Internship (Indian eCommerce Simulation)
+##  Comprehensive Cybersecurity Internship (Indian eCommerce Simulation)
 
 This repository contains all deliverables for a 45-day self-driven cybersecurity internship project simulating the role of a security consultant for an Indian eCommerce company with over 100 employees and legacy infrastructure.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Secure a simulated eCommerce environment (OpenCart) on VirtualBox & Google Cloud
 - Conduct risk assessments including third-party vendor risk
@@ -15,7 +15,7 @@ This repository contains all deliverables for a 45-day self-driven cybersecurity
 
 ---
 
-## 🧱 Program Structure (9 Phases)
+## Program Structure (9 Phases)
 
 | Phase | Focus Area                              | Deliverable                                      |
 |-------|------------------------------------------|--------------------------------------------------|
@@ -31,7 +31,7 @@ This repository contains all deliverables for a 45-day self-driven cybersecurity
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Virtualization**: VirtualBox, Ubuntu
 - **Web Security**: OWASP ZAP, Burp Suite, Metasploit, OpenVAS
@@ -44,7 +44,7 @@ This repository contains all deliverables for a 45-day self-driven cybersecurity
 
 ---
 
-## 🔐 Regulatory Standards Covered
+## Regulatory Standards Covered
 
 | Standard     | Focus                                                  |
 |--------------|--------------------------------------------------------|
@@ -56,7 +56,7 @@ This repository contains all deliverables for a 45-day self-driven cybersecurity
 
 ---
 
-## 📂 Repository Layout
+## Repository Layout
 
 ```
 
@@ -75,16 +75,16 @@ This repository contains all deliverables for a 45-day self-driven cybersecurity
 
 ---
 
-## 📌 Outcome
+## Outcome
 
 > This project simulates the real-world challenges of securing an Indian eCommerce company, using open-source tools and a compliance-driven mindset helping bridge the gap between academic learning and industry readiness.
 
 ---
 
-🔧 **Status:** Ongoing  
-👤 **By:** NISHA PASHTE  
-📅 **Duration:** 45 Days  
-🏢 **Simulated Org:** ShopVita Pvt. Ltd.
+ **Status:** Ongoing  
+ **By:** NISHA PASHTE  
+ **Duration:** 45 Days  
+ **Simulated Org:** ShopVita Pvt. Ltd.
 
 
 
