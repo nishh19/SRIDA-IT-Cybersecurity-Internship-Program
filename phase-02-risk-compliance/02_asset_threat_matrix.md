@@ -1,4 +1,4 @@
-# 📊 Asset–Threat–Vulnerability Matrix
+# Asset–Threat–Vulnerability Matrix
 
 | Asset             | Type        | Threat             | Vulnerability               | Risk Level |
 |------------------|-------------|--------------------|-----------------------------|------------|
