@@ -1,10 +1,10 @@
-# 🛡️ Phase 2: Risk & Compliance Assessment: ShopVita
+#  Phase 2: Risk & Compliance Assessment: ShopVita
 
 This phase focuses on identifying risks, evaluating vulnerabilities, and assessing regulatory compliance for **ShopVita Pvt. Ltd.**, a simulated Indian eCommerce company. The approach follows **ISO/IEC 27001:2022**, and aligns with **GDPR**, **DPDPA (India)**, **PCI DSS v4.0**, and the **IT Act 2000**.
 
 ---
 
-## 📁 Folder Contents
+##  Folder Contents
 
 | File                                | Description                                                         |
 |-------------------------------------|---------------------------------------------------------------------|
@@ -19,7 +19,7 @@ This phase focuses on identifying risks, evaluating vulnerabilities, and assessi
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To simulate a real-world cybersecurity consulting task by:
 
@@ -30,7 +30,7 @@ To simulate a real-world cybersecurity consulting task by:
 
 ---
 
-## 🧩 Standards & Frameworks Referenced
+##  Standards & Frameworks Referenced
 
 - ✅ **ISO/IEC 27001:2022** – 93 controls grouped into 4 themes  
 - ✅ **GDPR** – Consent, privacy policy, user rights  
