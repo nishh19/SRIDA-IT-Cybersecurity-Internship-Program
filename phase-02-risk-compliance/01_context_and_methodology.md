@@ -1,6 +1,6 @@
-# 🧭 Company Context & Risk Assessment Methodology
+#  Company Context & Risk Assessment Methodology
 
-## 🏢 Company Background: ShopVita Pvt. Ltd.
+##  Company Background: ShopVita Pvt. Ltd.
 
 ShopVita is a simulated Indian eCommerce company that sells lifestyle and fashion products. The company handles:
 
@@ -11,7 +11,7 @@ ShopVita is a simulated Indian eCommerce company that sells lifestyle and fashio
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Conduct a realistic cybersecurity risk and compliance assessment using globally accepted frameworks like:
 
@@ -23,7 +23,7 @@ Conduct a realistic cybersecurity risk and compliance assessment using globally 
 
 ---
 
-## 📐 Methodology
+##  Methodology
 
 1. **Asset–Threat–Vulnerability Mapping** using ISO 27005  
 2. **Risk Rating:** Likelihood × Impact  
