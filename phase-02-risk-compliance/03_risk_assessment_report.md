@@ -1,4 +1,4 @@
-# 📋 Risk & Compliance Assessment Report
+# Risk & Compliance Assessment Report
 
 **Company:** ShopVita Pvt. Ltd.  
 **Prepared By:** NISHA PASHTE  
@@ -6,13 +6,13 @@
 
 ---
 
-## 🧩 Summary
+## Summary
 
 This risk assessment was conducted as part of a cybersecurity internship to identify key threats, vulnerabilities, and compliance gaps across ShopVita's digital environment.
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - No Data Loss Prevention (DLP) for sensitive data
 - TLS encryption present but weak ciphers enabled
@@ -22,7 +22,7 @@ This risk assessment was conducted as part of a cybersecurity internship to iden
 
 ---
 
-## 📌 High-Risk Items
+## High-Risk Items
 
 | Risk                    | Impact       | Recommendation                               |
 |-------------------------|--------------|----------------------------------------------|
@@ -32,7 +32,7 @@ This risk assessment was conducted as part of a cybersecurity internship to iden
 
 ---
 
-## ✅ Recommendations Summary
+## Recommendations Summary
 
 - Implement ISO 27001:2022 controls:
   - A.5.7 (Threat Intelligence)
